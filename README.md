@@ -7,13 +7,17 @@ Have fun building your CV, it can either be for yourself or an imaginary charact
 
 Here are the docs if needed (which you probably will) => [Link](https://styled-components.com/docs)
 
+I also recommend installing [this extension](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) for a better experience with styled-components.
+
 ## Step 1
 
-Install the library in your application
+Started the project by running
 
 ```sh
-npm i styled-components
+npm install
 ```
+
+The library has already been installed by running `npm i styled-components`
 
 ## Step 2
 
